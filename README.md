@@ -311,4 +311,4 @@ MIT License - see `LICENSE` file for details.
 
 ---
 
-**Built with ❤️ by the MRWA Team** | Powered by Gemini 3
+**Built with ❤️ by Timothee RINGUYENEZA** | Powered by Gemini 3

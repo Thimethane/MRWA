@@ -1,0 +1,16 @@
+# Research Articles
+https://arxiv.org/abs/2303.08774
+https://paperswithcode.com/sota
+https://huggingface.co/blog/rlhf
+
+# YouTube Educational Content
+https://youtube.com/watch?v=kCc8FmEb1nY
+https://youtube.com/watch?v=aircAruvnKk
+
+# Documentation
+https://docs.python.org/3/tutorial/
+https://kubernetes.io/docs/concepts/
+
+# News and Analysis
+https://techcrunch.com/category/artificial-intelligence/
+

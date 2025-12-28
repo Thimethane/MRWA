@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Web
+platforms/web/node_modules/
+platforms/web/build/
+platforms/web/package-lock.json
+
+# Samples (large files)
+samples/research_papers/*.pdf
+samples/code_repositories/*
+
+# Artifacts
+artifacts/
+outputs/
